@@ -51,3 +51,10 @@ To have a folder containing dll and more :
 ``
 pyinstaller --hidden-import python-engineio --hidden-import python-socketio --hidden-import aiohttp --hidden-import engineio.async_drivers.aiohttp --hidden-import engineio.async_aiohttp --clean --noconfirm -w main.py
 ``
+
+#To launch
+Create exe file
+Where exe file is, copy assets, index.html and js file
+Click on exe, sometime wait some seconds to see that it's works!
+
+Envoy !!
